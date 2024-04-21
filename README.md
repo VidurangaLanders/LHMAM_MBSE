@@ -1,2 +1,2 @@
 # LHMAM_MBSE
-Lunar Habitat Module Architecture Model (MBSE) - Assignment of ACHIEVED Academy
+Lunar Habitat Module Architecture Model (MBSE) - ACHIEVED Academy MBSE Module Assignment
